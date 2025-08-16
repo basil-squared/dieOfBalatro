@@ -1,0 +1,9 @@
+{
+  "id": "dieOfBalatro",
+  "name": "Die of Balatro",
+  "author": "basil_squared",
+  "description": "A small content mod based on the game by Saucefy.",
+  "prefix": "dob",
+  "badge_colour": "fc8048",
+  "dependencies": ["Steamodded (>=1.0.0~BETA-0711a)"]
+}
